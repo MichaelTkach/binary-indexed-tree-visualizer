@@ -11,6 +11,10 @@ An interactive visualization tool for understanding Binary Indexed Trees (Fenwic
 - Detailed algorithm explanation
 - Comprehensive interface guide
 
+## Video demonstration
+
+[![Watch the video](https://raw.githubusercontent.com/MichaelTkach/binary-indexed-tree-visualizer/main/thumbnail.png)](https://raw.githubusercontent.com/MichaelTkach/binary-indexed-tree-visualizer/main/demo.mp4)
+
 #### Note
 For now, the decomposed structure of the project is unfinished. So in order, to use an app you have to run ftree.py file.
 
